@@ -1,7 +1,0 @@
-# Open Anaconda prompt
-# launch jupyter notebook with specifying directory/drive
-
-jupyter notebook --notebook-dir=<drive name>:/
-
-# for example if you want to open jupyter from your drive named 'E', run following command in Anaconda prompt
-jupyter notebook --notebook-dir=E:/
